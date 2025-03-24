@@ -3,7 +3,7 @@
 
 <transmission name="Revolute 1_tran">
   <type>transmission_interface/SimpleTransmission</type>
-  <joint name="Revolute 1">
+  <joint name="Revolute1">
     <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
   </joint>
   <actuator name="Revolute 1_actr">
@@ -14,7 +14,7 @@
 
 <transmission name="Revolute 2_tran">
   <type>transmission_interface/SimpleTransmission</type>
-  <joint name="Revolute 2">
+  <joint name="Revolute2">
     <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
   </joint>
   <actuator name="Revolute 2_actr">
